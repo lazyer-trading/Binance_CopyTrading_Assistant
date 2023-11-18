@@ -5,6 +5,7 @@
 #### twitter: @lazyer_trading
 #### telegram: https://t.me/bn_ct_track
 #### email: lazyer.trading@gmail.com
+#### 欢迎加入Bitget节点计划：https://partner.bitget.fit/bg/1KPPQ8 注册交易返还50%交易手续费
 ![avatar](img/img2.png)
 
 ## 1. 软件介绍 (Introduction)
@@ -14,13 +15,13 @@
 ####  版本目前免费公测中，欢迎点赞转发并提出您宝贵意见
 #### 视频教程：https://www.youtube.com/watch?v=w5KFpZRVP8c
 
-### 欢迎加入Bitget节点计划：https://partner.bitget.fit/bg/1KPPQ8 注册交易返还50%交易手续费
+
 
 ## 2. 软件下载 （Download）
 
 windows 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/v2.0/win_v2.0.zip
 
-linux 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/v1.0/linux_v1.0.zip (暂停维护)
+linux 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/v2.0/linux_v2.0.zip
 
 (linux中若无法运行，请按照sh文件命令安装好chrome驱动)
 
@@ -47,9 +48,9 @@ linux 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/re
 修改完记得保存
 
 ### 步骤2：运行
- windows: ./track.exe
+ windows: ./main.exe
 
- linux: ./track
+ linux: ./main
  
  windows 运行结果如下：
  ![avatar](img/img6.png)
