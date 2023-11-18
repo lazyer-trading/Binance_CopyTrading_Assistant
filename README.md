@@ -1,6 +1,7 @@
 # 币安跟单助手 (Binance Copytrading Assistant)
 ![avatar](img/img1.png)
 #### 技术支持：懒人交易策略研发团队
+#### 币安带单: 懒人交易
 #### twitter: @lazyer_trading
 #### telegram: https://t.me/bn_ct_track
 #### email: lazyer.trading@gmail.com
