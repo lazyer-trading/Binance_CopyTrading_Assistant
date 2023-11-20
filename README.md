@@ -19,7 +19,7 @@
 
 ## 2. 软件下载 （Download）
 
-windows 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/v2.0/win_v2.0.zip
+windows 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/v2.1/win_v2.1.zip
 
 linux 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/v2.0/linux_v2.0.zip
 
