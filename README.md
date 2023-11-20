@@ -23,7 +23,7 @@ windows 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/
 
 linux 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/v2.1/linux_v2.1.zip
 
-(linux中若无法运行，请按照sh文件命令安装好chrome驱动)
+(linux中若无法运行，请按照sh文件命令安装好chrome驱动, 若存在权限问题在当前路径输入 "chmod 777 -R *")
 
 ## 3. 实现原理 （Diagram）
 ![avatar](img/img3.png)
