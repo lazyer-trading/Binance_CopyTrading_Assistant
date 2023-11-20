@@ -19,14 +19,25 @@
 
 ## 2. 软件下载 （Download）
 
-windows 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/v2.1/win_v2.1.zip
+(1) windows 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/v2.1/win_v2.1.zip
 
-linux 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/v2.1/linux_v2.1.zip
+更新main文件：https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/latest_win_main_exe/main.exe
+
+(2) linux 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/v2.1/linux_v2.1.zip
+
+更新main文件: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/latest_linux_main_exe/main
 
 (linux中若无法运行，请按照sh文件命令安装好chrome驱动, 若存在权限问题在当前路径输入 "chmod 777 -R *")
 
 ## 3. 实现原理 （Diagram）
+#### 3.1 信号追踪和下单
 ![avatar](img/img3.png)
+
+#### 3.2 同风险定比跟单
+#####     根据带单员资产定比跟随，风险与带单员同步，可设置cp_ratio 参数进行风险缩放，例如：
+#####     trader: balance = 1000 usdt,   position(ETHUSDT) = [value:2000u, leverage:10x, margin:200u, risk_rate:2 ]
+#####     user: balance = 100 usdt,   position(ETHUSDT) = [value:200u, leverage:50x, margin:4u, risk_rate:2 ] if cp_ratio = 1.0
+#####     user: balance = 100 usdt,   position(ETHUSDT) = [value:300u, leverage:50x, margin:6u, risk_rate:3 ] if cp_ratio = 1.5
 
 ## 4. 使用教程 （Usage）
 
