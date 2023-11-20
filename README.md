@@ -21,7 +21,7 @@
 
 windows 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/v2.1/win_v2.1.zip
 
-linux 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/v2.0/linux_v2.0.zip
+linux 版本: https://github.com/lazyer-trading/Binance_CopyTrading_Assistant/releases/download/v2.1/linux_v2.1.zip
 
 (linux中若无法运行，请按照sh文件命令安装好chrome驱动)
 
