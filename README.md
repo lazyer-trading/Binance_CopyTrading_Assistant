@@ -3,7 +3,7 @@
 #### 技术支持：懒人交易策略研发团队
 #### 币安带单: 懒人交易
 #### twitter: @lazyer_trading
-#### telegram: https://t.me/bn_ct_track
+#### telegram: @lazyer_trading
 #### email: lazyer.trading@gmail.com
 #### 欢迎加入Bitget节点计划：https://partner.bitget.fit/bg/1KPPQ8 注册交易返还50%交易手续费
 ![avatar](img/img2.png)
