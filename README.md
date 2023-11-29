@@ -15,6 +15,7 @@
 #### (2) 省去10%带单员佣金，追踪 开仓/平仓/加仓/减仓操作 同时支持邮件通知
 ####  版本目前免费公测中，欢迎点赞转发并提出您宝贵意见
 #### 视频教程：https://www.youtube.com/watch?v=w5KFpZRVP8c
+#### 建议使用linux云服务器后台长期运行，轻量级机器租用（5u/月）可以参考腾讯云：https://www.tencentcloud.com/products/lighthouse?from_qcintl=122020102
 
 
 
