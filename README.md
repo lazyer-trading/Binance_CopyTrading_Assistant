@@ -6,8 +6,10 @@
 #### telegram: @lazyer_trading
 #### email: lazyer.trading@gmail.com
 #### 欢迎加入Bitget节点计划：https://partner.bitget.fit/bg/1KPPQ8 注册交易返还50%交易手续费
-![avatar](img/img2.png)
 #### bitget跨平台跟单/带单助手：https://github.com/lazyer-trading/bitget_copytrading_assistant
+### **github帮忙star后可联系我们开通一个月测试账号**
+![avatar](img/img2.png)
+
 
 ## 1. 软件介绍 (Introduction)
 #### 全球最大加密货币交易所币安上线 "跟单交易" 功能后再度掀起跟单交易热潮，吸引不少顶尖交易员入驻，对于很多满员团队很多投资者也出现上车难的遗憾。对此，懒人团队采用网页追踪技术24小时监测交易员交易信息并同步到用户的合约账户，软件具体功能如下：
