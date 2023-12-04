@@ -60,8 +60,10 @@
 
  linux: ./main
  
- windows 运行结果如下：
+追踪结果如下：
  ![avatar](img/img6.png)
+同步跟单如下：
+![avatar](img/img7.png)
 
 
 
