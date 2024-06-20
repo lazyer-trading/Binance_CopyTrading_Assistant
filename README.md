@@ -1,5 +1,5 @@
 > 通知:
-> 该项目目前不再维护，第二代追踪器正在研发中，公寓跟单信号追踪：https://github.com/lazyer-trading/BN_Tracker
+> 该项目目前不再维护，第二代追踪器正在研发中，公域跟单信号追踪：https://github.com/lazyer-trading/BN_Tracker
 
 ---
 
