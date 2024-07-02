@@ -1,5 +1,5 @@
 > 通知:
-> 该项目目前不再维护，公域跟单信号追踪：https://github.com/lazyer-trading/BN_Tracker
+> 该项目目前不再维护，公域跟单信号追踪：https://github.com/lazyer-trading/Binance_CopyTrading_Assistant_V2_Tracker
 
 ---
 
